@@ -18,7 +18,7 @@ It helps you stay productive using the **Pomodoro technique** — short work int
 
 ### Clone the repo
 ```bash
-git clone https://github.com/your-username/focusbuddy.git
+git clone https://github.com/rxshellg/focus-buddy.git
 cd focusbuddy 
 ```
 
